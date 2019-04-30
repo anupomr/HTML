@@ -2,12 +2,14 @@
 
 Day 1
 ======================================
-<html>
-<title>First Page</title>
-<body>
+<li> Create HTML pages by using Notepad
+Insert images in an HTML document
+Create hyperlinks in a HTML document
+Format the text in a existing HTML document
+Format images in a HTML document
+Change background of a HTML document
+Create lists in a HTML document
 
-<h1>This is heading One</h1>
-<p>This is a paragraph.</p>
 
-</body>
-</html>
+Formatting Text in an HTML Document
+================
