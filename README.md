@@ -12,7 +12,7 @@ Day 1
 
 
 Formatting Text in an HTML Document
-================
+
 <li> Bold tag 
 <li> Italics tag 
 <li> Underlined tag 
@@ -20,9 +20,7 @@ Formatting Text in an HTML Document
 <li> Line break tag
 <li> Horizontal Ruling tag 
 
-
-
 Creating Lists in a HTML Document
-=======================
+
 <li> Ordered
 <li> Unordered
