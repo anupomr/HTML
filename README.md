@@ -13,12 +13,12 @@ Day 1
 
 Formatting Text in an HTML Document
 ================
-Bold tag 
-Italics tag 
-Underlined tag 
-Paragraph tag 
-Line break tag
-Horizontal Ruling tag 
+<li> Bold tag 
+<li> Italics tag 
+<li> Underlined tag 
+<li> Paragraph tag 
+<li> Line break tag
+<li> Horizontal Ruling tag 
 
 
 
